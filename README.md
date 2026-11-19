@@ -17,6 +17,7 @@ Ready-to-use Claude skills, prompts and checklists from my own product work: **[
 | Kit | What it does |
 |---|---|
 | [PRD reviewer](https://akbar-ai-labs.github.io/kits/prd-reviewer/) | Checks a PRD for 9 gaps before engineering sees it. Claude skill + prompt for any AI assistant. |
+| [UI self-review](https://akbar-ai-labs.github.io/kits/ui-self-review/) | Checks screens or UI code for 10 common problems before a designer sees them. |
 
 More kits are added every week.
 
