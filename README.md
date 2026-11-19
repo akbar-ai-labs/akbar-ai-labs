@@ -10,16 +10,9 @@ I'm an **engineer and product lead** with **12+ years in product and UX**. I des
 
 ---
 
-### 🎁 Free kits
+### 🎁 Free resources
 
-Ready-to-use Claude skills, prompts and checklists from my own product work: **[akbar-ai-labs.github.io](https://akbar-ai-labs.github.io)**
-
-| Kit | What it does |
-|---|---|
-| [PRD reviewer](https://akbar-ai-labs.github.io/kits/prd-reviewer/) | Checks a PRD for 9 gaps before engineering sees it. Claude skill + prompt for any AI assistant. |
-| [UI self-review](https://akbar-ai-labs.github.io/kits/ui-self-review/) | Checks screens or UI code for 10 common problems before a designer sees them. |
-
-More kits are added every week.
+Every post I share on [LinkedIn](https://www.linkedin.com/in/akbar-ahmed-khan/) comes with its own free resource: a Claude skill, a checklist or a template. The link is in the first comment of each post.
 
 ---
 
@@ -35,8 +28,7 @@ More kits are added every week.
 |---|---|
 | [simple-alarm-clock](https://github.com/akbar-ai-labs/simple-alarm-clock) | A simple, beautiful alarm clock for Android (Kotlin + Jetpack Compose) |
 | [NanoEdit-Image-Editor](https://github.com/akbar-ai-labs/NanoEdit-Image-Editor) | An AI image editor |
-| [akbar-ai-labs.github.io](https://github.com/akbar-ai-labs/akbar-ai-labs.github.io) | The free kits site and its downloads |
 
 ### 🤝 Connect
 
-[LinkedIn](https://www.linkedin.com/in/akbar-ahmed-khan/) · [NexusAI](https://thenexusai.tech) · [Free kits](https://akbar-ai-labs.github.io)
+[LinkedIn](https://www.linkedin.com/in/akbar-ahmed-khan/) · [NexusAI](https://thenexusai.tech)
