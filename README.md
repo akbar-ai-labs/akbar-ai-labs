@@ -22,13 +22,6 @@ Every post I share on [LinkedIn](https://www.linkedin.com/in/akbar-ahmed-khan/) 
 - **Product and UX**: discovery, PRDs, prototyping, design systems, AI interfaces people can trust
 - **Building with AI**: shipping products end to end with Claude Code, from prototype to production
 
-### 📂 Open source here
-
-| Project | About |
-|---|---|
-| [simple-alarm-clock](https://github.com/akbar-ai-labs/simple-alarm-clock) | A simple, beautiful alarm clock for Android (Kotlin + Jetpack Compose) |
-| [NanoEdit-Image-Editor](https://github.com/akbar-ai-labs/NanoEdit-Image-Editor) | An AI image editor |
-
 ### 🤝 Connect
 
 [LinkedIn](https://www.linkedin.com/in/akbar-ahmed-khan/) · [NexusAI](https://thenexusai.tech)
