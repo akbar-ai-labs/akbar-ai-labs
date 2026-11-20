@@ -24,4 +24,4 @@ Every post I share on [LinkedIn](https://www.linkedin.com/in/akbar-ahmed-khan/) 
 
 ### 🤝 Connect
 
-[LinkedIn](https://www.linkedin.com/in/akbar-ahmed-khan/) · [NexusAI](https://thenexusai.tech)
+[LinkedIn](https://www.linkedin.com/in/akbar-ahmed-khan/) · [X](https://x.com/Akbarkhan9) · [NexusAI](https://thenexusai.tech)
