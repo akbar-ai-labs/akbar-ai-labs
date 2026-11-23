@@ -2,7 +2,7 @@
 
 ### Hi, I'm Akbar 👋
 
-I'm an **engineer and product lead** with **12+ years in product and UX**. I design and ship real products with AI, from enterprise platforms to apps people use every day.
+I'm an **engineer and product lead** with **12+ years in product and UX**. I design and ship real products with AI, from enterprise platforms to apps people use every day. Case studies: **[akbarahmedkhan.com](https://akbarahmedkhan.com)**.
 
 - 🧠 **Customer Engineering Head & Founder at [NexusAI](https://thenexusai.tech)**: an enterprise AI platform that connects a company's systems, builds a model of how the business works, and runs AI agents with people approving the risky steps, inside the company's own environment.
 - 🛠️ I build with **Claude, Claude Code and AI agents**, and I share what works.
@@ -24,4 +24,4 @@ Every post I share on [LinkedIn](https://www.linkedin.com/in/akbar-ahmed-khan/) 
 
 ### 🤝 Connect
 
-[LinkedIn](https://www.linkedin.com/in/akbar-ahmed-khan/) · [X](https://x.com/Akbarkhan9) · [NexusAI](https://thenexusai.tech)
+🌐 **[Portfolio: akbarahmedkhan.com](https://akbarahmedkhan.com)** · [LinkedIn](https://www.linkedin.com/in/akbar-ahmed-khan/) · [X](https://x.com/Akbarkhan9) · [NexusAI](https://thenexusai.tech)
